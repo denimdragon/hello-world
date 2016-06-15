@@ -1,2 +1,2 @@
 # hello-world
-Learning to Code at the ripe old age
+Learning to code at my ripe old age is challenging, but the time has come
